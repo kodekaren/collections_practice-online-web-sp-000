@@ -50,7 +50,7 @@ def add_s(array)
     if array[1] = element
       element
      else
-       return element<<"s"
+       element<<"s"
      end
 }
 array
