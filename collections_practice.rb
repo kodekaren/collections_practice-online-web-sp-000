@@ -49,11 +49,10 @@ def add_s(array)
   array.collect{|element|
     if array[1] = element
       element
-      
-       
      else
        return element<<"s"
      end
 }
 array
 end
+ 
