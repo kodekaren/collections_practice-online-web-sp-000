@@ -51,8 +51,8 @@ def add_s(array)
       element
      else
        element<<"s"
-     end
+     
 }
-array
 end
- 
+end
+end
