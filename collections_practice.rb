@@ -46,8 +46,8 @@ def sum_array(array)
 end
 
 def add_s(array)
-  array.collect{|element, index|
-    if index !=1
+  array.collect{|element|
+    if array[element] == 1
        element<<"s"
      else
        return element
